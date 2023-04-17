@@ -9,7 +9,7 @@ void main()
 	{
 		s1 += a[i] / 20;
 		s2 += a[i];
-	}
+	}//2nd change in first_branch.cpp
 	s2 /= a20;
 	std::cout << "s1=" << s1 << ", s2=" << s2 << endl;
 	return 0;
