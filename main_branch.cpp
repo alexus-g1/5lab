@@ -17,7 +17,7 @@ int main()
     unsigned int X[1000];
     unsigned int i;
     double result;
-
+    //3rd change in main_branch.cpp
     srand(GetTickCount());
     for (i = 0; i < 1000; i++)
     {
