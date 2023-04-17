@@ -11,6 +11,6 @@ int main() {
         b += static_cast<double>(a[i]) / size;
 
     std::cout << b << std::endl;
-
+    //1st change in second_branch.cpp
     return 0;
 }
