@@ -11,7 +11,7 @@ double Hello(unsigned int* begin, unsigned int* end, int size)
     else                     
         return (double)(*begin + *(begin + 1)) / size + (double)Hello(begin + 2, end, size);
 }
-
+//4th change in main_branch.cpp
 int main()
 {
     unsigned int X[1000];
