@@ -8,7 +8,7 @@ int main(void)
         c = a % b;
         a = b;
         b = c;
-    }
+    }//2nd change in third_branch.cpp
     printf("%d", a);
     getchar();
 }
