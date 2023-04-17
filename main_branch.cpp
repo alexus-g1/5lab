@@ -23,7 +23,7 @@ int main()
     {
         X[i] = rand() % 100;
     }
-
+    //2nd change in main_branch.cpp
     result = Hello(X, &X[999], 1000);
 
     return 0;
