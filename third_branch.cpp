@@ -5,7 +5,7 @@ int main(void)
     scanf("%d", &a);
     scanf("%d", &b);
     while (b) {
-        c = a % b;
+        c = a % b;//4th change in third_branch.cpp
         a = b;
         b = c;
     }//2nd change in third_branch.cpp
